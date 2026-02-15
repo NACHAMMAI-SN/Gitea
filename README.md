@@ -8,7 +8,7 @@ The goal of this project is to explore large-scale backend architecture, authent
 
 ---
 
-## 🚀 About Gitea
+##  About Gitea
 
 Gitea is a lightweight, self-hosted Git service that provides:
 
