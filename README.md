@@ -2,7 +2,7 @@
 
 # Gitea Extended – Enterprise Git Management Platform
 
-This repository contains a customized and extended implementation of **Gitea**, a self-hosted Git service designed for scalable source code management and collaboration.
+A self-hosted Git service designed for scalable source code management and collaboration.
 
 The goal of this project is to explore large-scale backend architecture, authentication systems, permission models, and production-grade application design.
 
